@@ -1,0 +1,11 @@
+{
+    "name": "famil/campus",
+    "minimum-stability": "dev",
+    "require": {
+        "faapz/pdo": "2.x-dev",
+        "bramus/router": "dev-master",
+        "league/plates": "v3.x-dev",
+        "defuse/php-encryption": "dev-master",
+        "filp/whoops": "^2.12"
+    }
+}
